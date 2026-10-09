@@ -1,0 +1,602 @@
+[
+{
+"id": "45564bc0-ce7c-4c63-9b64-f6b6de4f7c7e",
+"name": "M Radio Giải Trí",
+"tags": "Radio Giải Trí Việt Nam",
+"city": "",
+"url": "http://stream.zeno.fm/n6pvyrmoaemtv",
+"hls": false
+},
+{
+"id": "870b95bd-1fcb-4239-8e11-524aa2c9b1b0",
+"name": "Radio Nhạc Vàng Xưa",
+"tags": "Radio Nhạc Vàng Việt Nam",
+"city": "",
+"url": "http://stream.zeno.fm/riluleoa8vdtv",
+"hls": false
+},
+{
+"id": "c528a958-83d1-44ff-92ae-55502c0f6e83",
+"name": "Radio Nhạc Cải Lương",
+"tags": "Radio Nhạc Cải Lương Việt Nam",
+"city": "",
+"url": "http://stream.zeno.fm/3jfzgwv7j2utv",
+"hls": false
+},
+{
+"id": "5f1cc968-f645-40ff-aa8a-4c14c84fa1ab",
+"name": "VOH FM 99.9MHz",
+"tags": "VOH FM 99.9MHz",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-voh99.m3u8",
+"hls": true
+},
+{
+"id": "d622a8dd-f5e7-41c4-bb74-ab9940f6d2e0",
+"name": "VOH FM 95.6MHz",
+"tags": "VOH FM 95.6MHz",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-voh956.m3u8",
+"hls": true
+},
+{
+"id": "2d6a11d9-a090-4607-ab31-47fa3ecffa48",
+"name": "VOH FM 87.7MHz",
+"tags": "VOH FM 87.7MHz",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-voh877.m3u8",
+"hls": true
+},
+{
+"id": "32de9bea-e929-4f77-a95a-156bb77101fb",
+"name": "VOH AM 610KHz",
+"tags": "VOH AM 610KHz",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-voh610.m3u8",
+"hls": true
+},
+{
+"id": "32de9bea-e929-4f77-a95a-156bb77101fc",
+"name": "VOH M FM 92-92.5MHz",
+"tags": "VOH Văn hóa Mê Kông FM 92-92.5MHz · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-voh925.m3u8",
+"hls": true
+},
+{
+"id": "b8e1efeb-b791-420d-a581-8dd75796b6a3",
+"name": "VOV GT Hà Nội FM 91MHz",
+"tags": "Phát thanh giao thông Hà Nội",
+"city": "",
+"url": "https://play.vovgiaothong.vn/live/gthn/playlist.m3u8",
+"hls": true
+},
+{
+"id": "288a6482-382a-4c37-bc7d-5135b5c54c7b",
+"name": "VOV GT TP.HCM FM 91MHz",
+"tags": "Phát thanh giao thông TP.HCM",
+"city": "",
+"url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8",
+"hls": true
+},
+{
+"id": "06b19665-8d8a-488a-ade3-1de6b87c92b0",
+"name": "VOV GT Duyên Hải FM 91MHz",
+"tags": "Phát thanh giao thông Duyên Hải",
+"city": "",
+"url": "https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8",
+"hls": true
+},
+{
+"id": "06b19665-8d8a-688a-ade3-1de6b87c92b1",
+"name": "VOV Sức khỏe - FM 89Mhz",
+"tags": "Phát thanh VOV Sức khỏe",
+"city": "",
+"url": "https://stream.vovmedia.vn/vov89",
+"hls": false
+},
+{
+"id": "a23c5b5a-64d0-4b12-9a8f-7d213f22f658",
+"name": "VOV24/7 - FM 104MHz",
+"tags": "Phát thanh tiếng Anh 24/7",
+"city": "",
+"url": "https://audio-lss.vov.vn/live/vov24_7.m3u8",
+"hls": true
+},
+{
+"id": "39da873c-dc14-4912-a7df-3f1d671b1f78",
+"name": "VOV1 - AM 675KHz",
+"tags": "Thời Sự - Chính Trị - Tổng Hợp - VOV1",
+"city": "",
+"url": "https://audio-lss.vov.vn/live/vov1.m3u8",
+"hls": true
+},
+{
+"id": "0c3cb946-bcad-4fec-adeb-4ce6e16edcd9",
+"name": "VOV2 - FM 102.7MHz",
+"tags": "Văn hoá - Đời sống - Khoa học",
+"city": "",
+"url": "https://audio-lss.vov.vn/live/vov2.m3u8",
+"hls": true
+},
+{
+"id": "144cd4ca-4ee1-4388-bdc3-79f1c24cba0d",
+"name": "VOV3 - FM 104.5MHz",
+"tags": "Âm Nhạc - Thông Tin - Giải Trí",
+"city": "",
+"url": "https://audio-lss.vov.vn/live/vov3.m3u8",
+"hls": true
+},
+{
+"id": "cae24551-a940-41de-b2ae-e1b282ffb764",
+"name": "VOV4 - Khu vực Miền Trung",
+"tags": "Phát Thanh Dân Tộc",
+"city": "",
+"url": "https://audio-lss.vov.vn/live/vov4.m3u8",
+"hls": true
+},
+{
+"id": "fe978335-6b5d-42cc-87ea-693b886617be",
+"name": "VOV5 - FM 105.5MHz",
+"tags": "Phát Thanh Đối Ngoại",
+"city": "",
+"url": "https://audio-lss.vov.vn/live/vov5.m3u8",
+"hls": true
+},
+{
+"id": "3c17ac9e-3fe3-4351-832a-7af67aa3c214",
+"name": "Hà Nội - FM 90MHz",
+"tags": "Phát thanh Hà Nội",
+"city": "",
+"url": "http://14.162.146.90:8000/HANOI90",
+"hls": false
+},
+{
+"id": "75410b8a-abd8-4610-a73a-51ec14eb069f",
+"name": "Hà Nội - FM 96MHz",
+"tags": "Phát thanh Hà Nội",
+"city": "",
+"url": "https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8",
+"hls": true
+},
+{
+"id": "75410b8a-abd8-5610-a73a-51ec14eb069g",
+"name": "An Giang - FM 93.1MHz",
+"tags": "Phát thanh An Giang",
+"city": "",
+"url": "https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8",
+"hls": true
+},
+{
+"id": "ca806aab-3cab-4252-9c31-f7efc144d789",
+"name": "Bắc Giang",
+"tags": "Phát thanh Bắc Giang · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-bacninh.m3u8",
+"hls": true
+},
+{
+"id": "7c1d2805-e654-452f-aac4-1cf292ec6927",
+"name": "Bạc Liêu - FM 93.8MHz",
+"tags": "Phát thanh Bạc Liêu · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://tv.ctvcamau.vn/live/radio/radio.m3u8",
+"hls": true
+},
+{
+"id": "e4eb09e4-582d-4d9b-bcb4-100414c7f3e1",
+"name": "Bắc Kạn - FM 99.3MHz",
+"tags": "Phát thanh Bắc Kạn · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://radio.thainguyentv.vn/hls/livestream.m3u8",
+"hls": true
+},
+{
+"id": "c0bb59b2-db90-4433-b74d-fe45d9868688",
+"name": "Bắc Ninh - FM 92.1MHz",
+"tags": "Phát thanh Bắc Ninh · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-bacninh.m3u8",
+"hls": true
+},
+{
+"id": "2a0fcdce-cb08-49a5-b993-2f6f7101d11e",
+"name": "Bà Rịa Vũng Tàu - FM 92MHz",
+"tags": "Phát thanh Bà Rịa Vũng Tàu · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-voh925.m3u8",
+"hls": true
+},
+{
+"id": "694c1196-edc3-418d-9d54-45a8486a3fdf",
+"name": "Bến Tre - FM 97.9MHz",
+"tags": "Phát thanh Bến Tre · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8",
+"hls": true
+},
+{
+"id": "5bdb0750-9391-5ddb-b66d-9d1685f7a6ac",
+"name": "Bình Dương - FM 92.5MHz",
+"tags": "Phát thanh Bình Dương",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/sohoabinhduong",
+"hls": false
+},
+{
+"id": "5bdb0750-9391-4ddb-b66d-9d1685f7a6ab",
+"name": "Bình Định - FM 97MHz 99.9MHz",
+"tags": "Phát thanh Bình Định",
+"city": "",
+"url": "http://14.224.130.186:8000/binhdinh",
+"hls": false
+},
+{
+"id": "31b2e7c1-3d9f-4039-aa10-988d384ffccb",
+"name": "Bình Phước - FM 89.4MHz",
+"tags": "Phát thanh Bình Phước",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc",
+"hls": false
+},
+{
+"id": "3ce75a60-19ae-4556-9c81-9af16b6726cd",
+"name": "Bình Thuận - FM 102MHz",
+"tags": "Phát thanh Bình Thuận · luồng dùng chung với đài khác",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/lamdong",
+"hls": false
+},
+{
+"id": "3330dc70-818a-4828-a219-639a051021b7",
+"name": "Cà Mau - FM 94.6MHz",
+"tags": "Phát thanh Cà Mau · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://tv.ctvcamau.vn/live/radio/radio.m3u8",
+"hls": true
+},
+{
+"id": "8275f004-9562-4fb8-b95e-13799e4e6c9a",
+"name": "Cần Thơ - FM 93.7MHz",
+"tags": "Phát thanh Cần Thơ · luồng dùng chung với đài khác",
+"city": "",
+"url": "http://113.161.205.237:1935/live/radio/playlist.m3u8",
+"hls": true
+},
+{
+"id": "cc3e5288-2fde-46fb-b0a7-dff816c4d618",
+"name": "Đắk Lắk",
+"tags": "Phát thanh Đắk Lắk",
+"city": "",
+"url": "http://sh.truyenthanhthongminh.vn/daklak_sohoa1",
+"hls": false
+},
+{
+"id": "385adcf7-155b-4987-8e6d-de9bb05a1665",
+"name": "Đắk Nông - FM 96.6MHz",
+"tags": "Phát thanh Đắk Nông · luồng dùng chung với đài khác",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/lamdong",
+"hls": false
+},
+{
+"id": "c9abdf94-de88-4b95-965e-0056e1a68e47",
+"name": "Đà Nẵng - FM 96.3MHz",
+"tags": "Phát thanh Đà Nẵng · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8",
+"hls": true
+},
+{
+"id": "9c201706-0912-4a6a-916b-893bf76cb345",
+"name": "Đồng Nai - FM 97.5Mhz",
+"tags": "Phát thanh Đồng Nai",
+"city": "",
+"url": "http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8",
+"hls": true
+},
+{
+"id": "477be45f-d8a3-4eb5-b6dd-46f72f3e18b6",
+"name": "Đồng Tháp - FM 98.4Mhz",
+"tags": "Phát thanh Đồng Tháp · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8",
+"hls": true
+},
+{
+"id": "0b8a27bd-cbf4-47e8-a218-679a7f4576de",
+"name": "Gia Lai",
+"tags": "Phát thanh Gia Lai",
+"city": "",
+"url": "http://sh.truyenthanhthongminh.vn/gialaitv",
+"hls": false
+},
+{
+"id": "8660e961-f153-4b6e-8981-06ff1e37d829",
+"name": "Hà Nam - FM 93.3MHz",
+"tags": "Phát thanh Hà Nam",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/sohoatinhhanam",
+"hls": false
+},
+{
+"id": "07e7d4ae-62a0-4827-be44-fdaf9f0c2279",
+"name": "Hà Giang",
+"tags": "Phát thanh Hà Giang · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8",
+"hls": true
+},
+{
+"id": "147f3740-5763-474a-9b4e-7e1a2f9a30d9",
+"name": "Hải Dương",
+"tags": "Phát thanh Hải Dương · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-haiphong1.m3u8",
+"hls": true
+},
+{
+"id": "494133a3-2030-4c50-8df5-ffacdd548af5",
+"name": "Hải Phòng - FM 93.7MHz",
+"tags": "Phát thanh Hải Phòng · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-haiphong1.m3u8",
+"hls": true
+},
+{
+"id": "45729040-9168-47dc-8f0f-b6cf5ccde1bc",
+"name": "Hải Phòng - FM GT 102.2MHz",
+"tags": "Phát thanh Hải Phòng",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-haiphong2.m3u8",
+"hls": true
+},
+{
+"id": "08b797a6-a4cf-4705-812f-42a4490516e4",
+"name": "Hà Tĩnh - FM 97.8MHz",
+"tags": "Phát thanh Hà Tĩnh",
+"city": "",
+"url": "https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8",
+"hls": true
+},
+{
+"id": "1b794788-24e2-4cbd-a624-1edd8f3290f6",
+"name": "Hậu Giang - FM 89.6MHz",
+"tags": "Phát thanh Hậu Giang",
+"city": "",
+"url": "https://live.canthotv.vn/live/radiocs2/playlist.m3u8",
+"hls": true
+},
+{
+"id": "d410f4a7-b93b-45b1-8d6b-330354c13307",
+"name": "Hưng Yên - FM 92.7MHz",
+"tags": "Phát thanh Hưng Yên · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-hungyen.m3u8",
+"hls": true
+},
+{
+"id": "2e7c4554-fc62-47c1-9aae-0ea7d01abb13",
+"name": "Khánh Hòa - FM 106.5MHz",
+"tags": "Phát thanh Khánh Hòa",
+"city": "",
+"url": "https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio",
+"hls": true
+},
+{
+"id": "dce0593f-82a9-4d39-a1c9-ad9e22ceda7f",
+"name": "Kiên Giang - FM 99.4MHz",
+"tags": "Phát thanh Kiên Giang",
+"city": "",
+"url": "https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8",
+"hls": true
+},
+{
+"id": "ddaefe4b-8118-4cee-86f1-0614f699e424",
+"name": "Kon Tum - FM 95.1MHz",
+"tags": "Phát thanh Kon Tum",
+"city": "",
+"url": "https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8",
+"hls": true
+},
+{
+"id": "b541dab2-c2f3-4979-80fe-56e292c6d494",
+"name": "Lâm Đồng",
+"tags": "Phát thanh Lâm Đồng · luồng dùng chung với đài khác",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/lamdong",
+"hls": false
+},
+{
+"id": "0f2032a8-d603-4b29-bb95-7a643555f167",
+"name": "Lạng Sơn",
+"tags": "Phát thanh Lạng Sơn",
+"city": "",
+"url": "https://live-hq.evgcdn.net/live/285dabcfc94f52b458688fe7f601524816e/playlist.m3u8",
+"hls": true
+},
+{
+"id": "0f2032a8-d603-4b29-bb95-7a643555f168",
+"name": "Lao Cai",
+"tags": "Phát thanh Lao Cai · luồng dùng chung với đài khác",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai",
+"hls": false
+},
+{
+"id": "05ca3b1a-802b-43e2-bba7-ec14576fac9a",
+"name": "Long An - FM 96.9MHz",
+"tags": "Phát thanh Long An · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8",
+"hls": true
+},
+{
+"id": "4b8f35f9-8a4a-46e4-8e76-5d9e8b27258c",
+"name": "Nam Định - FM 95.1 MHz",
+"tags": "Phát thanh Nam Định",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/sohoanamdinh",
+"hls": false
+},
+{
+"id": "4b8f35f9-8a4a-46e4-8e76-5d9e8b27258a",
+"name": "Nghệ An - FM 99.6MHz",
+"tags": "Phát thanh Nghệ An",
+"city": "",
+"url": "https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8",
+"hls": true
+},
+{
+"id": "d71e16ff-9fe2-4454-863a-71ef144a86f9",
+"name": "Ninh Bình - FM 98.1MHz",
+"tags": "Phát thanh Ninh Bình",
+"city": "",
+"url": "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8",
+"hls": true
+},
+{
+"id": "3c24e23b-1ea1-4803-9ccb-879339c48cfb",
+"name": "Ninh Thuận - FM 95MHz",
+"tags": "Phát thanh Ninh Thuận",
+"city": "",
+"url": "https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio",
+"hls": true
+},
+{
+"id": "3c24e23b-1ea1-5805-9ccb-879339c48cfg",
+"name": "Phú Thọ - FM 106MHz",
+"tags": "Phát thanh Phú Thọ",
+"city": "",
+"url": "https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8",
+"hls": true
+},
+{
+"id": "64c91a76-439e-4cd2-ad41-d4214b365a0c",
+"name": "Quảng Bình - FM 96.1MHz",
+"tags": "Phát thanh Quảng Bình · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8",
+"hls": true
+},
+{
+"id": "8087f0b7-bc37-4302-8fdb-7d15e8ebe401",
+"name": "Quảng Ngãi - FM 102.9MHz",
+"tags": "Phát thanh Quảng Ngãi",
+"city": "",
+"url": "https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8",
+"hls": true
+},
+{
+"id": "607c7e73-99d8-4de1-a277-4f4da2bd45f5",
+"name": "Quảng Ninh 1 - FM 97.8MHz",
+"tags": "Phát thanh Quảng Ninh 1",
+"city": "",
+"url": "https://live.baoquangninh.vn/qtvlive/qnr1.m3u8",
+"hls": true
+},
+{
+"id": "69787288-c748-469b-900c-e5d5edb401c7",
+"name": "Quảng Ninh 2 - FM 94.7MHz",
+"tags": "Phát thanh Quảng Ninh 2",
+"city": "",
+"url": "https://live.baoquangninh.vn/qtvlive/qnr2.m3u8",
+"hls": true
+},
+{
+"id": "24f23196-d058-410a-8902-38836dbe6bc3",
+"name": "Quảng Trị",
+"tags": "Phát thanh Quảng Trị · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8",
+"hls": true
+},
+{
+"id": "b630a2ff-775b-4c7e-98f0-0b36fac449e2",
+"name": "Sóc Trăng - FM 100.4MHz",
+"tags": "Phát thanh Sóc Trăng · luồng dùng chung với đài khác",
+"city": "",
+"url": "http://113.161.205.237:1935/live/radio/playlist.m3u8",
+"hls": true
+},
+{
+"id": "e7830981-46f9-4cb2-9c34-fd6f0b5bf063",
+"name": "Sơn La",
+"tags": "Phát thanh Sơn La",
+"city": "",
+"url": "https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8",
+"hls": true
+},
+{
+"id": "c067ae42-2d40-4184-8bf8-9e98ab20326c",
+"name": "Tây Ninh - FM 103.1MHz",
+"tags": "Phát thanh Tây Ninh · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8",
+"hls": true
+},
+{
+"id": "e03db119-a884-4ec1-8e11-7f5fb4f1b917",
+"name": "Thái Bình - FM 97MHz",
+"tags": "Phát thanh Thái Bình · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-hungyen.m3u8",
+"hls": true
+},
+{
+"id": "f016ac96-042c-449f-b07a-f84cbc57ddf2",
+"name": "Thái Nguyên",
+"tags": "Phát thanh Thái Nguyên · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://radio.thainguyentv.vn/hls/livestream.m3u8",
+"hls": true
+},
+{
+"id": "761951d3-6d2f-485e-b4f2-08b4700a54c2",
+"name": "Thừa Thiên Huế - FM 93MHz",
+"tags": "Phát thanh Thừa Thiên Huế",
+"city": "",
+"url": "https://live.huetv.com.vn/Radio-online/playlist.m3u8",
+"hls": true
+},
+{
+"id": "45556c2b-dbb7-4f0e-812a-64bdd44f3758",
+"name": "Tiền Giang - FM 96.2MHz",
+"tags": "Phát thanh Tiền Giang · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8",
+"hls": true
+},
+{
+"id": "845fd2e7-c017-4cb7-9a82-784f1688ca33",
+"name": "Trà Vinh",
+"tags": "Phát thanh Trà Vinh",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/tinhtravinh",
+"hls": false
+},
+{
+"id": "2e88af3b-1d1d-41d6-87b1-b1c9d50e68a1",
+"name": "Tuyên Quang - FM 95.6MHz",
+"tags": "Phát thanh Tuyên Quang · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8",
+"hls": true
+},
+{
+"id": "aa2e54d7-934e-4cbe-91b0-f33fdf5e8765",
+"name": "Vĩnh Long - FM 90.2MHz",
+"tags": "Phát thanh Vĩnh Long · luồng dùng chung với đài khác",
+"city": "",
+"url": "https://liveapi.giavangtygia.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8",
+"hls": true
+},
+{
+"id": "bf4dcf55-16c1-41ce-a354-2e3163bcc2d9",
+"name": "Yên Bái - FM 94MHz",
+"tags": "Phát thanh Yên Bái · luồng dùng chung với đài khác",
+"city": "",
+"url": "http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai",
+"hls": false
+}
+]
